@@ -6,11 +6,11 @@
 
 目前的elo：
 
-![elo](imgs/elos.png)
+![elo](elos.png)
 
 详细胜率表：
 
-![table](imgs/table.png)
+![table](table.png)
 
 当然，目前棋力还比较一般，因为是从完全随机开始训练的，比方说某个对局片段(800 playouts)：
 
